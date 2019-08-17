@@ -1,0 +1,72 @@
+body {
+	margin: 0px;
+	background-image: url(img1.jpg);
+	background-size: cover;
+}
+
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+
+}
+.navbar-brand {
+	font-family: Kunstler Script;
+	font-size: 2em;
+
+}
+/*.card {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+
+}*/
+
+h1 {
+	font-family: Poiret One;
+	font-size: 3em;
+	border-bottom: 3px solid pink;
+	border-right: 3px solid pink;
+	text-align: center;
+	width: 400px;
+	box-shadow: 4px 4px 5px #888888;
+	margin-top: 10px; 
+}
+h5 {
+	font-family: Broadway;
+	font-size: 2em;
+}
+.yt {
+	font-family: Bahnschrift Condensed;
+}
+.yt:hover {
+	color: red;
+}
+sup {
+	vertical-align: super;
+  	font-size: xx-small;
+}
+p{
+	font-family: Chiller;
+	font-size: large;
+	font-weight: bold;
+}
+/*img	{
+	height: 300px;
+	width: 450px;
+	margin: 12px;
+	transition: all .4s;
+}
+
+img:hover {
+	transform: scale(1.1);
+}*/
+div {
+	margin: 20px;
+	transition: all .4s;
+}
+
+div:hover {
+	transform: scale(1.1);
+
+}

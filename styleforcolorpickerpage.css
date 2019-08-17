@@ -1,0 +1,41 @@
+/*selector {
+	property : Value;
+}
+*/
+body {
+	background-image: url(img7.jpg);
+	background-size: contain;
+}
+form {
+	color: #FF9933;
+}
+h1 {
+	color: #990000;
+}
+h2 {
+	color: blue;
+}
+h3 {
+	color: green;
+}
+h4 {
+	color: yellow;
+}
+h5 {
+	color: magenta;
+}
+h6 {
+	color: orange;
+}
+a {
+	color: white;
+}
+p {
+	color: white;
+}
+li {
+	color: white;
+}
+td{
+	color: white;
+}
